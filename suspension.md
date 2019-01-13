@@ -8,10 +8,10 @@
 * Choosing between coilovers and springs
 * Wheel size, tire size, spring rates
 * The impact of tire sizes on handling
-	* Wider fronts = more effort w/o power steering
+	* Wider fronts = more effort to turn w/o power steering
 * The effects of staggered wheels with more rear contact
 	* More contact = more grip
-	* More mass = costs more power
+	* More mass = costs more power to move
 	* More understeer
 * Roll center adjusters/bump steer spacers
 * Camber plates
@@ -23,9 +23,9 @@
 * Additional suggestions at time of coilover install
 	* Roll Center Adjusters / Bump Steer Spacers
 	* Adjustable control arms
-	* Replae strut isolator bearing
+	* Replace strut isolator bearing
 
-[Z Tech Tips](http://atlanticz.ca/zclub/techtips/suspension.htm)
+[Z Tech Tips](http://atlanticz.ca/zclub/techtips/suspension.htm) page
 	* Spring & strut upgrades
 	* Bushing Install guide
 	* Spindle pin
@@ -43,6 +43,7 @@
 ##### CX Racing Specific
 
 [DatZen](https://www.youtube.com/watch?v=_Uc0wa2EEBA)
+
 This channel is great, and the car is great. This video is more entertainment than instruction.
 
 [Team Boosted](https://www.youtube.com/watch?v=YhtcQdkLATs)
@@ -57,13 +58,17 @@ Here's the list of things in a suspension bushings kit from zcarsource.
 
 Two big notes here, both very important.
 
-1) Tension control rods require OEM rubber or a material of similar flexibility. **DO NOT USE URETHANE BUSHINGS ON TENSION CONTROL RODS OR _YOU WILL FUCKING DIE_**.
+1) Tension control rods require OEM rubber or a material of similar flexibility.
+
+**DO NOT USE URETHANE BUSHINGS ON TENSION CONTROL RODS OR _YOU WILL FUCKING DIE_**.
 
 Urethane's stiffness is desirable in race suspension but its failure to compress prevents natural, necessary rotation that would be present in a softer rubber bushing. Inability to move naturally transfers stresses to the control rod in a way that can lead it to snap. If this happens in a turn at speed you're gonna have a bad time.
 
 Avoid this by using OEM rubber when replacing this bushing, or by switching to a bushingless tension control rod. As a bonus, aftermarket rods can also enable caster adjustement.
 
-2) Note the inclusion of replacement spindle pins and corresponding hardware. Spindle pin removal is a rite of pssage on a datsun and they are highly unlikely to survive the ordeal.
+2) Note the inclusion of replacement spindle pins and corresponding hardware. Spindle pin removal is a rite of pssage on a datsun and they are highly unlikely to survive the ordeal. For more information see "Spindle Pins" on this page.
+
+Replacement kit should roughly include:
 
 * 2 front coltrol arm bushings
 * 2 front sway bar mount bushings
@@ -111,6 +116,7 @@ More homework/information needed here.
 
 ## Strut Insulators
 [Example](http://atlanticz.ca/zclub/techtips/suspension/strutbumperlowering/index.htm)
+
 Out of the factory, the back of the 280 sits higher than the front in a way some people find undesirable.
 
 If you want to lower the car while maintining the stock suspension, one solution is to use rear strut insulators from the 240, which are shorter, to counteract this. Because the isolators are above the springs, they are sprung weight and size modifications do not impact suspension geometry.
