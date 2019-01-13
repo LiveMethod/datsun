@@ -25,13 +25,14 @@
 	* Adjustable control arms
 	* Replace strut isolator bearing
 
-[Z Tech Tips](http://atlanticz.ca/zclub/techtips/suspension.htm) page
-	* Spring & strut upgrades
-	* Bushing Install guide
-	* Spindle pin
-	* Spring data
-	* Front sway bar upgrade
-	* Ball & Socket TC arm
+
+[Z Tech Tips](http://atlanticz.ca/zclub/techtips/suspension.htm)
+* Spring & strut upgrades
+* Bushing Install guide
+* Spindle pin
+* Spring data
+* Front sway bar upgrade
+* Ball & Socket TC arm
 
 
 
@@ -43,7 +44,6 @@
 ##### CX Racing Specific
 
 [DatZen](https://www.youtube.com/watch?v=_Uc0wa2EEBA)
-
 This channel is great, and the car is great. This video is more entertainment than instruction.
 
 [Team Boosted](https://www.youtube.com/watch?v=YhtcQdkLATs)
