@@ -7,6 +7,7 @@ Markdown files of information, organization subject to change.
 ### What this should become:
 More of a blog type thing.
 
+[Cost breakdown spreadsheet](https://docs.google.com/spreadsheets/d/14zIcA1goCb0UVSkelULNtH2YTFUcyk-1Oy7sHX-E76g/edit#gid=0) (private)
 
 # Resources
 
