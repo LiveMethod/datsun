@@ -91,6 +91,10 @@ Instructions for poly bushings: [TC Bushings](https://www.classiczcars.com/forum
 
 [Front Bushing Install](https://www.youtube.com/watch?v=cK_v0pmB5WU&feature=youtu.be) (video)
 
+Bushing install with pics [ZCarBlog](http://www.zcarblog.com/2015/01/29/performance/suspension-refresh-kevins-1973-datsun-240z.html)
+
+Bushing w/ weight info, some nuanced stuff about bolts, torque info [youtube](https://www.youtube.com/watch?v=55pgBlesG6o)
+
 A note about lower control arm bushings: 
 
 > Also remember that the urethane inner lower control arm bushing needs a tightening process different then what's in the FSM. The OEM bushing relies on the hysteresis of the rubber for movement while the urethane busing rotates around the inner metal bushing. Tightening the 14mm bolt to the factory spec can seriously bind the bushing in place. I've had customer cars come in where the bushing is so bound I could almost do a pullup in the control arm before it moved. Before putting the strut back on the arm, tighten the control arm bolt to the factory spec and make sure the arm moves easily. If it doesn't, back off on the bolt torque. I also suggest using new Nylock nuts every time.
